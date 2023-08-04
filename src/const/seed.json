@@ -1,0 +1,1232 @@
+[
+  {
+    "course": [
+      {
+        "id": "6c51560d-5a60-4196-8111-f7907e297f9c",
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your own applications",
+        "created_at": "2023-08-03T21:14:37.537Z",
+        "updated_at": "2023-08-03T18:28:49.551Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d1c0f670-1c9a-4936-a4bc-d14fd6545bf1",
+        "name": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-03T08:45:50.703Z",
+        "updated_at": "2023-08-04T02:42:36.215Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6b33cb4c-f2ea-4109-be7c-efb45f2947b2",
+        "name": "Financial Management for Entrepreneurs",
+        "description": "Master financial management techniques to drive entrepreneurial success",
+        "created_at": "2023-08-04T01:43:30.802Z",
+        "updated_at": "2023-08-03T19:11:39.415Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a665b4c-ee16-45da-87b0-a4de931188a6",
+        "name": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the world of AI and ML and their applications in various industries",
+        "created_at": "2023-08-03T10:48:18.272Z",
+        "updated_at": "2023-08-03T17:10:54.481Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d717ac34-614b-409a-b445-d3a340724ad7",
+        "name": "Web Design and Development",
+        "description": "Build responsive and user-friendly websites using HTML, CSS, and JavaScript",
+        "created_at": "2023-08-03T16:15:24.174Z",
+        "updated_at": "2023-08-04T06:20:04.347Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "question": [
+      {
+        "id": "743edbec-8b59-4a0c-a4a8-9cf6c2a18fa9",
+        "content": "What is the capital city of France?",
+        "created_at": "2023-08-03T20:53:17.393Z",
+        "updated_at": "2023-08-04T07:57:17.006Z",
+        "course_id": "7a665b4c-ee16-45da-87b0-a4de931188a6"
+      },
+      {
+        "id": "c6bb0ec5-dd1b-4bdc-8226-6a68c4d55be7",
+        "content": "How does photosynthesis occur in plants?",
+        "created_at": "2023-08-03T09:27:05.648Z",
+        "updated_at": "2023-08-04T02:13:40.568Z",
+        "course_id": "7a665b4c-ee16-45da-87b0-a4de931188a6"
+      },
+      {
+        "id": "a9ee6ea7-cf9a-4cc2-a76d-a75c131ea9eb",
+        "content": "What are the main features of a successful team?",
+        "created_at": "2023-08-03T22:02:10.865Z",
+        "updated_at": "2023-08-03T15:49:11.411Z",
+        "course_id": "7a665b4c-ee16-45da-87b0-a4de931188a6"
+      },
+      {
+        "id": "828732a0-b1d2-4961-a042-dfd53a676cb9",
+        "content": "Explain the concept of supply and demand in economics.",
+        "created_at": "2023-08-04T03:54:07.363Z",
+        "updated_at": "2023-08-03T17:13:39.093Z",
+        "course_id": "6c51560d-5a60-4196-8111-f7907e297f9c"
+      },
+      {
+        "id": "903328a4-81ae-4bf6-aa1e-7866b007d5e0",
+        "content": "What are the benefits of regular exercise?",
+        "created_at": "2023-08-03T19:46:58.119Z",
+        "updated_at": "2023-08-03T12:32:23.873Z",
+        "course_id": "6c51560d-5a60-4196-8111-f7907e297f9c"
+      }
+    ],
+    "practice_test_result": [
+      {
+        "id": "ff67678f-41c5-4475-adde-6946639707b4",
+        "score": 16660,
+        "created_at": "2023-08-03T12:41:37.911Z",
+        "updated_at": "2023-08-04T00:43:24.888Z",
+        "course_id": "7a665b4c-ee16-45da-87b0-a4de931188a6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f8624637-84d7-4346-9db1-aabc3e41d5aa",
+        "score": 27573,
+        "created_at": "2023-08-03T18:18:20.302Z",
+        "updated_at": "2023-08-03T09:40:09.490Z",
+        "course_id": "6c51560d-5a60-4196-8111-f7907e297f9c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "13b36bac-9d84-48fe-8ca3-373bd47b9476",
+        "score": 43254,
+        "created_at": "2023-08-03T09:50:09.394Z",
+        "updated_at": "2023-08-04T03:36:11.305Z",
+        "course_id": "d717ac34-614b-409a-b445-d3a340724ad7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "813ecc1d-10f0-409e-8874-8b1ad97f1d00",
+        "score": 10754,
+        "created_at": "2023-08-03T19:05:18.347Z",
+        "updated_at": "2023-08-04T04:39:39.392Z",
+        "course_id": "6c51560d-5a60-4196-8111-f7907e297f9c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2309b6c9-e0ee-4015-876b-a391d783a117",
+        "score": 10822,
+        "created_at": "2023-08-03T12:53:31.903Z",
+        "updated_at": "2023-08-03T12:55:52.782Z",
+        "course_id": "7a665b4c-ee16-45da-87b0-a4de931188a6",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "f4ab9f19-bd35-4001-8160-81440bb14145",
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your own applications",
+        "created_at": "2023-08-03T09:43:33.711Z",
+        "updated_at": "2023-08-03T15:55:51.443Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f5277f02-e58c-4192-be1b-c0681fafbce1",
+        "name": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-04T02:03:16.743Z",
+        "updated_at": "2023-08-04T08:06:09.225Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8f1a56be-34db-48ec-8b4d-aff857d747e0",
+        "name": "Financial Management for Entrepreneurs",
+        "description": "Master financial management techniques to drive entrepreneurial success",
+        "created_at": "2023-08-03T19:47:43.770Z",
+        "updated_at": "2023-08-04T07:46:33.393Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e6a43f5a-6595-4cb0-aaa1-62c94c244b5b",
+        "name": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the world of AI and ML and their applications in various industries",
+        "created_at": "2023-08-04T01:10:44.449Z",
+        "updated_at": "2023-08-03T16:05:09.110Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "27d291d5-0321-4d09-96ba-1987ae245958",
+        "name": "Web Design and Development",
+        "description": "Build responsive and user-friendly websites using HTML, CSS, and JavaScript",
+        "created_at": "2023-08-04T06:19:13.838Z",
+        "updated_at": "2023-08-03T14:30:02.816Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "question": [
+      {
+        "id": "3db711b6-bec4-47f2-8488-d5f36a24fa02",
+        "content": "What is the capital city of France?",
+        "created_at": "2023-08-03T08:31:46.572Z",
+        "updated_at": "2023-08-04T06:07:59.068Z",
+        "course_id": "8f1a56be-34db-48ec-8b4d-aff857d747e0"
+      },
+      {
+        "id": "f11e4e21-2d5c-4db4-bb31-1da2d27da544",
+        "content": "How does photosynthesis occur in plants?",
+        "created_at": "2023-08-03T15:36:43.233Z",
+        "updated_at": "2023-08-03T08:33:58.621Z",
+        "course_id": "f4ab9f19-bd35-4001-8160-81440bb14145"
+      },
+      {
+        "id": "112fb2eb-bf78-4228-bc37-204327ee2ffc",
+        "content": "What are the main features of a good leadership?",
+        "created_at": "2023-08-04T01:38:35.443Z",
+        "updated_at": "2023-08-03T18:14:01.594Z",
+        "course_id": "f4ab9f19-bd35-4001-8160-81440bb14145"
+      },
+      {
+        "id": "21645846-742a-457e-9de4-8eaeb77f7ef7",
+        "content": "Explain the concept of supply and demand in economics.",
+        "created_at": "2023-08-04T06:13:53.760Z",
+        "updated_at": "2023-08-03T11:39:38.751Z",
+        "course_id": "8f1a56be-34db-48ec-8b4d-aff857d747e0"
+      },
+      {
+        "id": "84838bbf-06b4-455e-8316-39e1d6c94e28",
+        "content": "What are the benefits of regular exercise?",
+        "created_at": "2023-08-04T06:49:05.064Z",
+        "updated_at": "2023-08-03T11:43:46.549Z",
+        "course_id": "8f1a56be-34db-48ec-8b4d-aff857d747e0"
+      }
+    ],
+    "practice_test_result": [
+      {
+        "id": "31f10a6a-8a09-4a66-8909-253ae0050b9c",
+        "score": 25628,
+        "created_at": "2023-08-03T10:14:03.119Z",
+        "updated_at": "2023-08-04T02:11:50.671Z",
+        "course_id": "8f1a56be-34db-48ec-8b4d-aff857d747e0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ef505a14-2d06-44ae-b849-e359cb43121e",
+        "score": 65899,
+        "created_at": "2023-08-03T20:03:41.557Z",
+        "updated_at": "2023-08-03T11:48:43.485Z",
+        "course_id": "f5277f02-e58c-4192-be1b-c0681fafbce1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4e012a9c-fd62-48b6-ae2d-5a2e54071361",
+        "score": 52750,
+        "created_at": "2023-08-03T22:53:24.253Z",
+        "updated_at": "2023-08-03T18:46:05.786Z",
+        "course_id": "f4ab9f19-bd35-4001-8160-81440bb14145",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "43f1bb84-85e3-4b5c-af40-841ce4b25f2d",
+        "score": 98028,
+        "created_at": "2023-08-03T22:31:36.380Z",
+        "updated_at": "2023-08-04T00:46:10.198Z",
+        "course_id": "f5277f02-e58c-4192-be1b-c0681fafbce1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9454dead-dd57-4489-ae57-7817fdad53d9",
+        "score": 4314,
+        "created_at": "2023-08-03T11:24:10.193Z",
+        "updated_at": "2023-08-03T23:41:06.585Z",
+        "course_id": "27d291d5-0321-4d09-96ba-1987ae245958",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "dcb126a2-c382-4a9c-ada3-8892c396fac1",
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your own applications",
+        "created_at": "2023-08-03T15:44:33.405Z",
+        "updated_at": "2023-08-04T02:08:57.542Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "016767cb-f692-4545-8455-ac2867fe4590",
+        "name": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-03T14:52:17.816Z",
+        "updated_at": "2023-08-04T05:41:50.728Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "81e34911-4360-4045-bbd8-3fc07e1fd1bc",
+        "name": "Financial Management for Entrepreneurs",
+        "description": "Master financial management techniques to drive entrepreneurial success",
+        "created_at": "2023-08-03T13:35:53.198Z",
+        "updated_at": "2023-08-03T17:00:12.976Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cb6a2f3c-fc95-4b60-a1bf-d1179981fb6a",
+        "name": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the world of AI and ML and their applications in various industries",
+        "created_at": "2023-08-04T02:20:16.657Z",
+        "updated_at": "2023-08-03T09:56:35.565Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ae38a165-3fea-425a-8f52-9c2dd68cfa42",
+        "name": "Web Design and Development",
+        "description": "Build responsive and user-friendly websites using HTML, CSS, and JavaScript",
+        "created_at": "2023-08-03T19:09:58.862Z",
+        "updated_at": "2023-08-04T03:20:56.763Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "question": [
+      {
+        "id": "b8784cde-1214-4745-8c98-8071df5074b4",
+        "content": "What is the capital city of France?",
+        "created_at": "2023-08-03T18:29:03.262Z",
+        "updated_at": "2023-08-03T13:32:03.021Z",
+        "course_id": "81e34911-4360-4045-bbd8-3fc07e1fd1bc"
+      },
+      {
+        "id": "c3337b58-76ca-4014-99fe-dd21c3b06911",
+        "content": "How does photosynthesis occur in plants?",
+        "created_at": "2023-08-03T19:35:16.980Z",
+        "updated_at": "2023-08-04T06:55:56.147Z",
+        "course_id": "cb6a2f3c-fc95-4b60-a1bf-d1179981fb6a"
+      },
+      {
+        "id": "8a3d6a67-0b33-4823-865c-5d85d531498e",
+        "content": "What are the main features of a good leadership?",
+        "created_at": "2023-08-03T23:19:50.501Z",
+        "updated_at": "2023-08-03T16:17:39.784Z",
+        "course_id": "ae38a165-3fea-425a-8f52-9c2dd68cfa42"
+      },
+      {
+        "id": "4628940d-cedc-41c2-8993-2b01fa24b393",
+        "content": "Explain the concept of supply and demand in economics.",
+        "created_at": "2023-08-04T06:44:28.013Z",
+        "updated_at": "2023-08-03T13:44:49.030Z",
+        "course_id": "016767cb-f692-4545-8455-ac2867fe4590"
+      },
+      {
+        "id": "bf0ffa1b-97a6-4f6f-9488-071ffe75c106",
+        "content": "What are the benefits of regular exercise?",
+        "created_at": "2023-08-04T06:23:49.423Z",
+        "updated_at": "2023-08-03T13:45:59.867Z",
+        "course_id": "81e34911-4360-4045-bbd8-3fc07e1fd1bc"
+      }
+    ],
+    "practice_test_result": [
+      {
+        "id": "10ccd454-6f1c-4739-8bd5-a9693ef7e0a8",
+        "score": 28024,
+        "created_at": "2023-08-04T01:47:17.659Z",
+        "updated_at": "2023-08-03T13:46:40.999Z",
+        "course_id": "016767cb-f692-4545-8455-ac2867fe4590",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7194af51-4ae6-411a-bdf8-f0b42140ba3a",
+        "score": 95370,
+        "created_at": "2023-08-04T01:29:48.550Z",
+        "updated_at": "2023-08-03T17:55:26.483Z",
+        "course_id": "cb6a2f3c-fc95-4b60-a1bf-d1179981fb6a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fd687969-a4f2-4c60-882a-b3fe80cf32ba",
+        "score": 1746,
+        "created_at": "2023-08-03T19:12:02.464Z",
+        "updated_at": "2023-08-03T19:39:10.257Z",
+        "course_id": "dcb126a2-c382-4a9c-ada3-8892c396fac1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e1a82ed1-11f0-48c0-896e-4a10fdc128b6",
+        "score": 52274,
+        "created_at": "2023-08-03T19:05:12.154Z",
+        "updated_at": "2023-08-03T15:07:46.562Z",
+        "course_id": "cb6a2f3c-fc95-4b60-a1bf-d1179981fb6a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ea7e4a17-92d4-4056-937d-d37acef73cf6",
+        "score": 76649,
+        "created_at": "2023-08-04T04:33:42.951Z",
+        "updated_at": "2023-08-03T10:18:20.883Z",
+        "course_id": "dcb126a2-c382-4a9c-ada3-8892c396fac1",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "3737b51c-78e0-4b2a-a835-ee4d205ba3b3",
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your own applications",
+        "created_at": "2023-08-03T23:02:12.103Z",
+        "updated_at": "2023-08-03T13:39:05.923Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b04ef870-5343-448f-ab27-ca24a3fff011",
+        "name": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-03T09:50:04.646Z",
+        "updated_at": "2023-08-04T02:46:11.580Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e2c7b1c6-d794-452f-80c6-c2582f3db0b3",
+        "name": "Financial Management for Entrepreneurs",
+        "description": "Master financial management techniques to drive entrepreneurial success",
+        "created_at": "2023-08-03T18:36:25.738Z",
+        "updated_at": "2023-08-03T15:17:01.782Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "22324e4e-37a2-4957-bb18-2bd075be82be",
+        "name": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the world of AI and ML and their applications in various industries",
+        "created_at": "2023-08-04T06:45:24.503Z",
+        "updated_at": "2023-08-03T15:34:36.006Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4b6e1a4a-76dd-4213-9a61-d4d57003a5c2",
+        "name": "Web Design and Development",
+        "description": "Build responsive and user-friendly websites using HTML, CSS, and JavaScript",
+        "created_at": "2023-08-04T05:08:38.643Z",
+        "updated_at": "2023-08-03T11:55:03.484Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "question": [
+      {
+        "id": "0570286c-3c4d-45b8-93c2-69c5e39cde4d",
+        "content": "What is the capital city of France?",
+        "created_at": "2023-08-03T18:31:57.591Z",
+        "updated_at": "2023-08-03T09:47:30.310Z",
+        "course_id": "22324e4e-37a2-4957-bb18-2bd075be82be"
+      },
+      {
+        "id": "de654685-d428-44ee-b6ab-1c9c5e0a062a",
+        "content": "How does photosynthesis occur in plants?",
+        "created_at": "2023-08-03T18:53:49.517Z",
+        "updated_at": "2023-08-03T22:43:25.925Z",
+        "course_id": "3737b51c-78e0-4b2a-a835-ee4d205ba3b3"
+      },
+      {
+        "id": "14129637-eeae-4196-b67a-44b5f5d72bb3",
+        "content": "What are the main features of a successful team?",
+        "created_at": "2023-08-03T17:50:21.618Z",
+        "updated_at": "2023-08-04T08:17:34.867Z",
+        "course_id": "e2c7b1c6-d794-452f-80c6-c2582f3db0b3"
+      },
+      {
+        "id": "ef3121ca-1d54-4bbf-98b6-6a60c0113150",
+        "content": "Explain the concept of supply and demand in economics.",
+        "created_at": "2023-08-03T15:37:44.242Z",
+        "updated_at": "2023-08-03T09:54:51.028Z",
+        "course_id": "22324e4e-37a2-4957-bb18-2bd075be82be"
+      },
+      {
+        "id": "9eca5eea-8389-4137-b055-0d375c4db659",
+        "content": "What are the benefits of regular exercise?",
+        "created_at": "2023-08-04T04:10:41.949Z",
+        "updated_at": "2023-08-03T09:13:36.772Z",
+        "course_id": "22324e4e-37a2-4957-bb18-2bd075be82be"
+      }
+    ],
+    "practice_test_result": [
+      {
+        "id": "1506d790-1e72-43c5-9a00-2b9de0ad8ad8",
+        "score": 88191,
+        "created_at": "2023-08-03T20:15:02.244Z",
+        "updated_at": "2023-08-03T08:27:44.823Z",
+        "course_id": "4b6e1a4a-76dd-4213-9a61-d4d57003a5c2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aaa5d190-a6b2-49e0-9ac4-8af1ce592849",
+        "score": 94436,
+        "created_at": "2023-08-03T15:10:41.624Z",
+        "updated_at": "2023-08-03T16:24:10.809Z",
+        "course_id": "b04ef870-5343-448f-ab27-ca24a3fff011",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4486716a-d991-45f3-8f44-9b781b6800ac",
+        "score": 32957,
+        "created_at": "2023-08-03T17:05:34.220Z",
+        "updated_at": "2023-08-03T22:54:26.982Z",
+        "course_id": "4b6e1a4a-76dd-4213-9a61-d4d57003a5c2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f4fb6db8-215e-4219-90a7-4ac1842cc871",
+        "score": 6194,
+        "created_at": "2023-08-04T05:14:04.113Z",
+        "updated_at": "2023-08-03T09:56:36.879Z",
+        "course_id": "e2c7b1c6-d794-452f-80c6-c2582f3db0b3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1adff9de-808a-414a-b672-30540412e515",
+        "score": 15321,
+        "created_at": "2023-08-03T19:59:32.689Z",
+        "updated_at": "2023-08-03T17:14:39.644Z",
+        "course_id": "4b6e1a4a-76dd-4213-9a61-d4d57003a5c2",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "0926bbd7-f6fb-4e82-9155-391b955c0eae",
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your own applications",
+        "created_at": "2023-08-03T08:41:52.872Z",
+        "updated_at": "2023-08-03T13:53:16.681Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "98b5a96a-da51-44ab-9fc1-da8462666003",
+        "name": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-03T17:00:28.995Z",
+        "updated_at": "2023-08-04T02:01:52.943Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c6ec6c95-b783-492c-a6f6-e46b20a7177d",
+        "name": "Financial Management for Entrepreneurs",
+        "description": "Master financial management techniques to drive business success",
+        "created_at": "2023-08-04T06:26:05.938Z",
+        "updated_at": "2023-08-03T13:29:39.180Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e40004bd-89ee-45d5-bf27-f27924e47c52",
+        "name": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the world of AI and ML and their applications in various industries",
+        "created_at": "2023-08-03T13:23:14.332Z",
+        "updated_at": "2023-08-04T03:13:28.192Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "829fc5e6-cc83-4161-99d8-c03cf3239069",
+        "name": "Web Development Fundamentals",
+        "description": "Build responsive and dynamic websites using HTML, CSS, and JavaScript",
+        "created_at": "2023-08-04T06:28:18.718Z",
+        "updated_at": "2023-08-03T16:19:35.482Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "question": [
+      {
+        "id": "7256d50d-212c-4e3c-a4a5-a95db35f3255",
+        "content": "What is the capital of France?",
+        "created_at": "2023-08-03T18:24:06.774Z",
+        "updated_at": "2023-08-03T11:37:11.382Z",
+        "course_id": "829fc5e6-cc83-4161-99d8-c03cf3239069"
+      },
+      {
+        "id": "8d77a280-1610-4a01-8b14-7e096bd584ba",
+        "content": "How does photosynthesis work?",
+        "created_at": "2023-08-03T08:46:30.149Z",
+        "updated_at": "2023-08-03T14:01:45.358Z",
+        "course_id": "e40004bd-89ee-45d5-bf27-f27924e47c52"
+      },
+      {
+        "id": "4d6f53a4-50ac-469e-ab9b-6b20a402c9af",
+        "content": "What are the main features of a good leader?",
+        "created_at": "2023-08-04T07:53:12.843Z",
+        "updated_at": "2023-08-04T07:53:24.197Z",
+        "course_id": "0926bbd7-f6fb-4e82-9155-391b955c0eae"
+      },
+      {
+        "id": "198c315c-4c19-4987-b1ca-9713068b0413",
+        "content": "Explain the concept of supply and demand in economics.",
+        "created_at": "2023-08-03T15:13:02.564Z",
+        "updated_at": "2023-08-04T05:17:07.147Z",
+        "course_id": "c6ec6c95-b783-492c-a6f6-e46b20a7177d"
+      },
+      {
+        "id": "34d8db5b-d31e-4cfd-8523-f3a8caa323db",
+        "content": "What are the benefits of regular exercise?",
+        "created_at": "2023-08-03T15:05:44.959Z",
+        "updated_at": "2023-08-04T00:06:13.744Z",
+        "course_id": "98b5a96a-da51-44ab-9fc1-da8462666003"
+      }
+    ],
+    "practice_test_result": [
+      {
+        "id": "f63eb72b-0773-465f-9fd7-467b7a7fa66e",
+        "score": 34782,
+        "created_at": "2023-08-04T05:36:50.053Z",
+        "updated_at": "2023-08-03T16:42:13.981Z",
+        "course_id": "98b5a96a-da51-44ab-9fc1-da8462666003",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "273d1489-abe3-4244-9d6d-8669eee67ef5",
+        "score": 61397,
+        "created_at": "2023-08-03T15:16:30.572Z",
+        "updated_at": "2023-08-03T19:56:03.142Z",
+        "course_id": "c6ec6c95-b783-492c-a6f6-e46b20a7177d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7f7e0b24-cb1e-42dc-8954-fa58f0fddbed",
+        "score": 75649,
+        "created_at": "2023-08-04T04:49:00.231Z",
+        "updated_at": "2023-08-03T09:07:57.011Z",
+        "course_id": "e40004bd-89ee-45d5-bf27-f27924e47c52",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "de8c9466-355d-4c3b-a79d-39b1d2c3755f",
+        "score": 68012,
+        "created_at": "2023-08-03T23:33:26.674Z",
+        "updated_at": "2023-08-04T00:55:48.659Z",
+        "course_id": "829fc5e6-cc83-4161-99d8-c03cf3239069",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "56425a75-c1ac-4983-a4dd-b84cb4fc548b",
+        "score": 65019,
+        "created_at": "2023-08-03T10:10:49.416Z",
+        "updated_at": "2023-08-03T13:51:56.759Z",
+        "course_id": "0926bbd7-f6fb-4e82-9155-391b955c0eae",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "02c62c3d-e33e-4713-8130-bfb3e61e90ca",
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your own applications",
+        "created_at": "2023-08-03T17:59:21.146Z",
+        "updated_at": "2023-08-03T16:51:38.033Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "52f2b370-684f-4f1d-b228-e6365f358c21",
+        "name": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-03T10:27:44.601Z",
+        "updated_at": "2023-08-03T09:31:16.412Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "06471dc6-eab9-4676-b844-f728fb849dc4",
+        "name": "Financial Management for Entrepreneurs",
+        "description": "Master financial management techniques to drive entrepreneurial success",
+        "created_at": "2023-08-03T10:39:48.368Z",
+        "updated_at": "2023-08-04T01:40:12.051Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ae3ae0ad-6416-4b1d-92a6-445879d2285b",
+        "name": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the world of AI and ML and their applications in various industries",
+        "created_at": "2023-08-04T04:28:42.051Z",
+        "updated_at": "2023-08-04T00:09:29.789Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "328c5d1b-4f01-4471-98c4-a4b8296ff274",
+        "name": "Web Design and Development",
+        "description": "Build responsive and user-friendly websites using HTML, CSS, and JavaScript",
+        "created_at": "2023-08-03T08:51:25.282Z",
+        "updated_at": "2023-08-03T16:44:48.705Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "question": [
+      {
+        "id": "17b29305-6f14-416a-92ba-ed5c55bc0c3c",
+        "content": "What is the capital city of France?",
+        "created_at": "2023-08-04T01:58:53.156Z",
+        "updated_at": "2023-08-03T12:33:27.090Z",
+        "course_id": "02c62c3d-e33e-4713-8130-bfb3e61e90ca"
+      },
+      {
+        "id": "c91615f5-476f-4613-9833-0eaadc617b32",
+        "content": "How does photosynthesis occur in plants?",
+        "created_at": "2023-08-04T07:09:01.545Z",
+        "updated_at": "2023-08-04T03:27:22.502Z",
+        "course_id": "06471dc6-eab9-4676-b844-f728fb849dc4"
+      },
+      {
+        "id": "926169cf-ad4b-439f-a8cd-312822f85792",
+        "content": "What are the main features of a successful team?",
+        "created_at": "2023-08-04T03:43:35.112Z",
+        "updated_at": "2023-08-04T08:16:19.364Z",
+        "course_id": "ae3ae0ad-6416-4b1d-92a6-445879d2285b"
+      },
+      {
+        "id": "a41b6421-1a50-4902-9ff4-8a659249adaa",
+        "content": "Explain the concept of supply and demand in economics.",
+        "created_at": "2023-08-04T04:53:08.940Z",
+        "updated_at": "2023-08-04T03:58:27.876Z",
+        "course_id": "06471dc6-eab9-4676-b844-f728fb849dc4"
+      },
+      {
+        "id": "ac0165a9-37db-4601-9d68-7691d3c0cb24",
+        "content": "What are the benefits of regular exercise?",
+        "created_at": "2023-08-04T05:12:11.285Z",
+        "updated_at": "2023-08-03T18:12:50.472Z",
+        "course_id": "06471dc6-eab9-4676-b844-f728fb849dc4"
+      }
+    ],
+    "practice_test_result": [
+      {
+        "id": "a85294b9-e4a8-474e-8923-4c4e33e74a29",
+        "score": 97804,
+        "created_at": "2023-08-03T18:03:13.138Z",
+        "updated_at": "2023-08-03T14:43:47.250Z",
+        "course_id": "ae3ae0ad-6416-4b1d-92a6-445879d2285b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b1177088-8370-48dc-a2b3-658993fd5968",
+        "score": 45767,
+        "created_at": "2023-08-03T09:17:51.696Z",
+        "updated_at": "2023-08-04T03:12:39.605Z",
+        "course_id": "06471dc6-eab9-4676-b844-f728fb849dc4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "868dfd6b-7275-4f09-8c10-5176059b512c",
+        "score": 10403,
+        "created_at": "2023-08-03T11:04:56.202Z",
+        "updated_at": "2023-08-04T01:06:17.556Z",
+        "course_id": "52f2b370-684f-4f1d-b228-e6365f358c21",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f05e34b2-6828-4b09-ba05-b6a8dab26295",
+        "score": 79759,
+        "created_at": "2023-08-04T04:38:37.476Z",
+        "updated_at": "2023-08-04T01:49:51.811Z",
+        "course_id": "06471dc6-eab9-4676-b844-f728fb849dc4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ae52a2b6-5ab0-4659-8e3b-c31f8a48f42c",
+        "score": 49182,
+        "created_at": "2023-08-03T09:40:35.532Z",
+        "updated_at": "2023-08-03T13:47:03.445Z",
+        "course_id": "52f2b370-684f-4f1d-b228-e6365f358c21",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "47414c19-e03f-4cba-9ea2-4626d08b3afb",
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your own applications",
+        "created_at": "2023-08-04T06:44:05.599Z",
+        "updated_at": "2023-08-04T03:49:59.897Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b2aeb59e-3256-4433-9439-642d3dbdd213",
+        "name": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-04T06:42:53.039Z",
+        "updated_at": "2023-08-03T17:18:57.366Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b7f37bd2-910b-4276-82b2-6d4124ed5f87",
+        "name": "Financial Management for Entrepreneurs",
+        "description": "Master financial management techniques to drive entrepreneurial success",
+        "created_at": "2023-08-04T04:27:19.771Z",
+        "updated_at": "2023-08-03T11:03:41.064Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "013590ff-cf7e-42e5-8534-e1a65008fd1c",
+        "name": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the world of AI and ML and their applications in various industries",
+        "created_at": "2023-08-03T10:45:17.428Z",
+        "updated_at": "2023-08-03T18:50:32.429Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ae9e7a26-0de3-4d52-9c26-bbdc3b21d6fd",
+        "name": "Web Design and Development",
+        "description": "Build responsive and user-friendly websites using HTML, CSS, and JavaScript",
+        "created_at": "2023-08-03T22:03:17.218Z",
+        "updated_at": "2023-08-03T15:48:02.078Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "question": [
+      {
+        "id": "6d927c8d-5a02-4889-b859-43d72985cf12",
+        "content": "What is the capital city of France?",
+        "created_at": "2023-08-04T03:52:06.703Z",
+        "updated_at": "2023-08-03T19:58:54.997Z",
+        "course_id": "47414c19-e03f-4cba-9ea2-4626d08b3afb"
+      },
+      {
+        "id": "bbb3d17d-bced-4061-b09d-6144b58a5577",
+        "content": "How does photosynthesis occur in plants?",
+        "created_at": "2023-08-04T05:12:32.904Z",
+        "updated_at": "2023-08-03T09:48:25.912Z",
+        "course_id": "47414c19-e03f-4cba-9ea2-4626d08b3afb"
+      },
+      {
+        "id": "80ded62f-20cb-4356-918d-4cde396b2509",
+        "content": "What are the main features of a good leadership?",
+        "created_at": "2023-08-03T18:30:53.981Z",
+        "updated_at": "2023-08-03T20:41:34.132Z",
+        "course_id": "b7f37bd2-910b-4276-82b2-6d4124ed5f87"
+      },
+      {
+        "id": "b3f08938-8097-45d6-84f2-c7fbe2c01aa1",
+        "content": "Explain the concept of supply and demand in economics.",
+        "created_at": "2023-08-04T03:34:45.942Z",
+        "updated_at": "2023-08-04T05:32:51.088Z",
+        "course_id": "b2aeb59e-3256-4433-9439-642d3dbdd213"
+      },
+      {
+        "id": "fb0f0b9d-e415-4050-a0d0-eb864834cf6f",
+        "content": "What are the benefits of regular exercise?",
+        "created_at": "2023-08-04T04:06:52.438Z",
+        "updated_at": "2023-08-03T16:09:56.072Z",
+        "course_id": "47414c19-e03f-4cba-9ea2-4626d08b3afb"
+      }
+    ],
+    "practice_test_result": [
+      {
+        "id": "a85008c2-563f-4651-ac81-51c9cd73f485",
+        "score": 88731,
+        "created_at": "2023-08-04T00:58:52.540Z",
+        "updated_at": "2023-08-03T20:36:13.718Z",
+        "course_id": "b2aeb59e-3256-4433-9439-642d3dbdd213",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "044bc496-be55-4306-84d1-e3abf1c2b21a",
+        "score": 29581,
+        "created_at": "2023-08-03T13:29:18.859Z",
+        "updated_at": "2023-08-04T07:31:30.363Z",
+        "course_id": "013590ff-cf7e-42e5-8534-e1a65008fd1c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4b8666f0-77f0-4c13-a120-7be3677878f9",
+        "score": 79372,
+        "created_at": "2023-08-04T03:27:22.517Z",
+        "updated_at": "2023-08-03T20:14:37.066Z",
+        "course_id": "ae9e7a26-0de3-4d52-9c26-bbdc3b21d6fd",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "983fb2a4-7a66-471a-9fa5-a7597addf2a4",
+        "score": 97553,
+        "created_at": "2023-08-03T17:18:12.640Z",
+        "updated_at": "2023-08-03T08:43:36.920Z",
+        "course_id": "b2aeb59e-3256-4433-9439-642d3dbdd213",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "42e1d9b0-1d55-481e-9175-84fbe0e0962a",
+        "score": 55737,
+        "created_at": "2023-08-04T05:43:18.459Z",
+        "updated_at": "2023-08-03T16:17:23.642Z",
+        "course_id": "013590ff-cf7e-42e5-8534-e1a65008fd1c",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "f84477f5-455a-4521-9c51-2deddcf8899f",
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your own applications",
+        "created_at": "2023-08-04T06:53:44.542Z",
+        "updated_at": "2023-08-03T16:16:13.223Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "70c4f65a-2398-487c-b668-73b64d334f75",
+        "name": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-04T03:22:37.475Z",
+        "updated_at": "2023-08-03T11:33:06.649Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d42c645-73a9-4b9e-ba35-71bb3811af03",
+        "name": "Financial Management for Entrepreneurs",
+        "description": "Master financial management techniques to drive entrepreneurial success",
+        "created_at": "2023-08-03T16:03:23.312Z",
+        "updated_at": "2023-08-04T06:16:01.842Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5905369c-5895-4263-836e-2e573f9739a7",
+        "name": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the world of AI and ML and their applications in various industries",
+        "created_at": "2023-08-03T11:45:22.894Z",
+        "updated_at": "2023-08-03T19:06:01.658Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6f8a0de4-a848-4714-b7ce-5abaaa7c4099",
+        "name": "Web Design and Development",
+        "description": "Build responsive and user-friendly websites using HTML, CSS, and JavaScript",
+        "created_at": "2023-08-03T21:12:28.249Z",
+        "updated_at": "2023-08-03T23:59:59.383Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "question": [
+      {
+        "id": "1a48a1de-ecd4-475a-9aeb-858495433419",
+        "content": "What is the capital city of France?",
+        "created_at": "2023-08-03T17:47:24.505Z",
+        "updated_at": "2023-08-03T09:20:11.385Z",
+        "course_id": "6f8a0de4-a848-4714-b7ce-5abaaa7c4099"
+      },
+      {
+        "id": "babdeaf2-c320-403a-9cff-d2a2d74d7399",
+        "content": "How does photosynthesis occur in plants?",
+        "created_at": "2023-08-03T11:28:24.706Z",
+        "updated_at": "2023-08-04T05:32:24.835Z",
+        "course_id": "6f8a0de4-a848-4714-b7ce-5abaaa7c4099"
+      },
+      {
+        "id": "609904cc-357e-4258-870f-bdcee8128992",
+        "content": "What are the main features of a successful team?",
+        "created_at": "2023-08-03T13:32:30.993Z",
+        "updated_at": "2023-08-04T07:37:54.422Z",
+        "course_id": "2d42c645-73a9-4b9e-ba35-71bb3811af03"
+      },
+      {
+        "id": "962b198c-b827-4e72-887b-b384884774b6",
+        "content": "Explain the concept of supply and demand in economics.",
+        "created_at": "2023-08-04T08:12:49.542Z",
+        "updated_at": "2023-08-04T07:51:52.539Z",
+        "course_id": "6f8a0de4-a848-4714-b7ce-5abaaa7c4099"
+      },
+      {
+        "id": "5eb04c24-0684-4ec9-93fc-c76a18ebf334",
+        "content": "What are the benefits of regular exercise?",
+        "created_at": "2023-08-03T22:03:26.130Z",
+        "updated_at": "2023-08-03T10:07:06.629Z",
+        "course_id": "70c4f65a-2398-487c-b668-73b64d334f75"
+      }
+    ],
+    "practice_test_result": [
+      {
+        "id": "829a9dd9-a307-45b9-97ec-735c82676e60",
+        "score": 31682,
+        "created_at": "2023-08-03T15:11:04.803Z",
+        "updated_at": "2023-08-04T04:45:49.260Z",
+        "course_id": "f84477f5-455a-4521-9c51-2deddcf8899f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bd625bba-311e-4d4f-8e8f-0269536e95db",
+        "score": 81381,
+        "created_at": "2023-08-04T05:10:16.897Z",
+        "updated_at": "2023-08-03T12:50:10.174Z",
+        "course_id": "f84477f5-455a-4521-9c51-2deddcf8899f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "da7ec7c2-1c5f-4e97-a32d-f11cb745df9f",
+        "score": 6003,
+        "created_at": "2023-08-04T05:04:58.586Z",
+        "updated_at": "2023-08-03T21:30:05.746Z",
+        "course_id": "70c4f65a-2398-487c-b668-73b64d334f75",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a8e5fcb-2bf7-43c3-80f0-088070832991",
+        "score": 26112,
+        "created_at": "2023-08-03T10:34:11.445Z",
+        "updated_at": "2023-08-03T20:31:10.539Z",
+        "course_id": "6f8a0de4-a848-4714-b7ce-5abaaa7c4099",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "482bedf3-91d4-434d-86e8-f9d1251e6f9d",
+        "score": 89629,
+        "created_at": "2023-08-04T03:34:40.558Z",
+        "updated_at": "2023-08-03T15:13:41.020Z",
+        "course_id": "f84477f5-455a-4521-9c51-2deddcf8899f",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "6afb6b32-0a03-44f4-9c59-0c062de3ea3b",
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your own applications",
+        "created_at": "2023-08-03T13:42:41.973Z",
+        "updated_at": "2023-08-04T05:11:07.268Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "34f61cde-6240-4e6b-8eb3-85bb6973d222",
+        "name": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-03T23:23:30.623Z",
+        "updated_at": "2023-08-03T22:53:33.020Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "286daea7-46cf-477b-aa4d-c05d1b23523c",
+        "name": "Financial Management for Entrepreneurs",
+        "description": "Master financial management techniques to drive entrepreneurial success",
+        "created_at": "2023-08-03T22:23:23.893Z",
+        "updated_at": "2023-08-03T19:33:11.746Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7c795c91-4c18-48b8-bc75-fbf130ccfc86",
+        "name": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the world of AI and ML and their applications in various industries",
+        "created_at": "2023-08-03T16:11:15.097Z",
+        "updated_at": "2023-08-03T14:33:47.351Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "23008326-c8f4-4d2a-9183-0bb2e567e36c",
+        "name": "Web Design and Development",
+        "description": "Build responsive and user-friendly websites using HTML, CSS, and JavaScript",
+        "created_at": "2023-08-04T02:22:25.026Z",
+        "updated_at": "2023-08-04T06:30:31.903Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "question": [
+      {
+        "id": "eed7ce21-7aa1-4c35-a44e-321e29b77027",
+        "content": "What is the capital city of France?",
+        "created_at": "2023-08-03T20:06:17.979Z",
+        "updated_at": "2023-08-03T12:11:20.945Z",
+        "course_id": "6afb6b32-0a03-44f4-9c59-0c062de3ea3b"
+      },
+      {
+        "id": "0761ccb1-9ad1-4316-8383-38e3efe2062c",
+        "content": "How does photosynthesis occur in plants?",
+        "created_at": "2023-08-04T01:43:26.406Z",
+        "updated_at": "2023-08-03T20:13:33.493Z",
+        "course_id": "23008326-c8f4-4d2a-9183-0bb2e567e36c"
+      },
+      {
+        "id": "f12e08f0-06f0-4779-af0d-2c3e04f20ff9",
+        "content": "What are the main features of a good leadership?",
+        "created_at": "2023-08-03T17:06:41.754Z",
+        "updated_at": "2023-08-03T11:36:24.062Z",
+        "course_id": "7c795c91-4c18-48b8-bc75-fbf130ccfc86"
+      },
+      {
+        "id": "7e791f45-99eb-4b3a-9610-1747bfb4203b",
+        "content": "Explain the concept of supply and demand in economics.",
+        "created_at": "2023-08-03T12:03:13.618Z",
+        "updated_at": "2023-08-04T06:15:04.620Z",
+        "course_id": "34f61cde-6240-4e6b-8eb3-85bb6973d222"
+      },
+      {
+        "id": "a777d997-0b11-4541-b8dd-176aae4b08ac",
+        "content": "What are the benefits of regular exercise?",
+        "created_at": "2023-08-03T13:12:54.657Z",
+        "updated_at": "2023-08-03T18:09:03.816Z",
+        "course_id": "23008326-c8f4-4d2a-9183-0bb2e567e36c"
+      }
+    ],
+    "practice_test_result": [
+      {
+        "id": "a14e0057-9722-44c3-80b4-1f3f557a9d80",
+        "score": 1944,
+        "created_at": "2023-08-04T03:24:05.674Z",
+        "updated_at": "2023-08-04T05:56:43.531Z",
+        "course_id": "34f61cde-6240-4e6b-8eb3-85bb6973d222",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8a88679b-dfb1-4508-bf58-f1c498a2533c",
+        "score": 19784,
+        "created_at": "2023-08-03T18:04:50.783Z",
+        "updated_at": "2023-08-04T07:45:19.689Z",
+        "course_id": "23008326-c8f4-4d2a-9183-0bb2e567e36c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "72152536-9b05-4a59-a1ce-943b8ae409bc",
+        "score": 57255,
+        "created_at": "2023-08-03T23:09:33.043Z",
+        "updated_at": "2023-08-04T06:47:25.331Z",
+        "course_id": "23008326-c8f4-4d2a-9183-0bb2e567e36c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3a97894d-f568-4a07-a31e-9bc23cfef7b4",
+        "score": 6243,
+        "created_at": "2023-08-04T04:40:31.104Z",
+        "updated_at": "2023-08-03T11:30:41.848Z",
+        "course_id": "34f61cde-6240-4e6b-8eb3-85bb6973d222",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bfc45986-ae65-4397-ad77-85f6a8635803",
+        "score": 3074,
+        "created_at": "2023-08-04T04:02:24.861Z",
+        "updated_at": "2023-08-03T17:44:52.159Z",
+        "course_id": "286daea7-46cf-477b-aa4d-c05d1b23523c",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "6b448b97-9193-404d-be2a-9a57206c030e",
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your own applications",
+        "created_at": "2023-08-03T21:34:37.513Z",
+        "updated_at": "2023-08-04T05:29:57.620Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "05fb35a5-2e8e-416c-b999-278677e4ae9b",
+        "name": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-04T04:03:55.118Z",
+        "updated_at": "2023-08-03T09:56:54.609Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d550f0e6-0d77-4d70-9c2d-0077f7302905",
+        "name": "Financial Management for Entrepreneurs",
+        "description": "Master financial management techniques to drive entrepreneurial success",
+        "created_at": "2023-08-04T06:20:17.014Z",
+        "updated_at": "2023-08-03T21:04:03.275Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a5d6ec25-26a9-42f1-888c-eb729a4f437c",
+        "name": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the world of AI and ML and their applications in various industries",
+        "created_at": "2023-08-04T07:30:36.350Z",
+        "updated_at": "2023-08-03T19:21:26.575Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cbeddcd9-72ae-4552-b030-58ff2739544b",
+        "name": "Web Design and Development",
+        "description": "Build responsive and user-friendly websites using HTML, CSS, and JavaScript",
+        "created_at": "2023-08-03T18:36:38.451Z",
+        "updated_at": "2023-08-04T01:53:12.263Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "question": [
+      {
+        "id": "611c14af-7f9f-4ed7-8d6f-612ec80a5754",
+        "content": "What is the capital city of France?",
+        "created_at": "2023-08-03T10:19:52.595Z",
+        "updated_at": "2023-08-03T16:57:47.641Z",
+        "course_id": "a5d6ec25-26a9-42f1-888c-eb729a4f437c"
+      },
+      {
+        "id": "d2d43675-d8b1-43d8-9563-3480b2f6c7ff",
+        "content": "How does photosynthesis occur in plants?",
+        "created_at": "2023-08-03T20:40:45.576Z",
+        "updated_at": "2023-08-03T13:06:34.481Z",
+        "course_id": "6b448b97-9193-404d-be2a-9a57206c030e"
+      },
+      {
+        "id": "81fb0017-da40-415c-862b-b05e8486f173",
+        "content": "What are the main features of a successful team?",
+        "created_at": "2023-08-03T11:47:41.541Z",
+        "updated_at": "2023-08-03T09:08:25.107Z",
+        "course_id": "d550f0e6-0d77-4d70-9c2d-0077f7302905"
+      },
+      {
+        "id": "572a7bdb-ed62-4b6e-99af-831804dfc020",
+        "content": "Explain the concept of supply and demand in economics.",
+        "created_at": "2023-08-03T13:45:03.530Z",
+        "updated_at": "2023-08-04T05:26:14.019Z",
+        "course_id": "6b448b97-9193-404d-be2a-9a57206c030e"
+      },
+      {
+        "id": "f34bf05e-5783-4955-bafc-fca48cb355b1",
+        "content": "What are the benefits of regular exercise?",
+        "created_at": "2023-08-03T14:26:53.284Z",
+        "updated_at": "2023-08-03T12:25:47.184Z",
+        "course_id": "a5d6ec25-26a9-42f1-888c-eb729a4f437c"
+      }
+    ],
+    "practice_test_result": [
+      {
+        "id": "2eb817ca-c41d-40e4-a1ab-822d91fce8ae",
+        "score": 71087,
+        "created_at": "2023-08-04T05:21:37.432Z",
+        "updated_at": "2023-08-03T10:37:56.536Z",
+        "course_id": "05fb35a5-2e8e-416c-b999-278677e4ae9b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ff6b04f-db84-42ba-9375-7bc22b47c4ee",
+        "score": 52079,
+        "created_at": "2023-08-04T08:21:32.711Z",
+        "updated_at": "2023-08-04T04:32:21.046Z",
+        "course_id": "cbeddcd9-72ae-4552-b030-58ff2739544b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a83ba3df-f642-407f-a33f-457a31131adc",
+        "score": 54320,
+        "created_at": "2023-08-03T15:47:57.293Z",
+        "updated_at": "2023-08-04T06:12:56.741Z",
+        "course_id": "05fb35a5-2e8e-416c-b999-278677e4ae9b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "18d65696-c1ef-4a92-a2d1-d1bc3cd1d20b",
+        "score": 79659,
+        "created_at": "2023-08-03T22:43:32.102Z",
+        "updated_at": "2023-08-04T07:01:43.137Z",
+        "course_id": "05fb35a5-2e8e-416c-b999-278677e4ae9b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "201f6176-6bb1-4bda-8bb1-ded934dc81d9",
+        "score": 3979,
+        "created_at": "2023-08-04T00:40:55.532Z",
+        "updated_at": "2023-08-04T07:52:53.712Z",
+        "course_id": "cbeddcd9-72ae-4552-b030-58ff2739544b",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  }
+]
